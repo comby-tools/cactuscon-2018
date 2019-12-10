@@ -11,7 +11,7 @@
 
 **Example `libssh2`**
 
-- git clone [libssh2-f1cfa55](https://github.com/rvantonder/libssh2-f1cfa55), which is at the commit with the pattern
+- git clone [libssh2-f1cfa55](https://github.com/rvantonder/libssh2-f1cfa55), which is `libssh2` pinned to the commit that contains matches for the example pattern
 - cd `libssh2-f1cfa55`
 - Then run:
 
