@@ -36,7 +36,7 @@ comby 'alloc_workqueue(:[args]); :[[word]]' '' -rule 'where :[[word]] != "if", :
 
 **Example `Kubernetes`**
 
-- `git clone [Kubernetes](https://github.com/kubernetes/kubernetes)`
+- `git clone https://github.com/kubernetes/kubernetes`
 - `cd kubernetes`
 
 ```
