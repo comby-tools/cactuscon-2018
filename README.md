@@ -21,8 +21,8 @@ comby 'alloc_workqueue(:[args]);' '' .c -match-only -stats
 
 **Example `Linux Kernel`**
 
-- git clone the linux kernel, or any repository you want to run on
-- In the root directory run these commands
+- git clone the linux kernel, or any repository you want to search over
+- `cd` into the root directory, then run these commands
 
 Part 1
 ```
