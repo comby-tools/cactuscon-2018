@@ -1,5 +1,9 @@
 # cactuscon-2019
 
+### Slides
+
+The [slides](https://github.com/comby-tools/cactuscon-2019/blob/master/slides.pdf) are in this repository.
+
 ### Running the examples
 
 - [Install comby](https://github.com/comby-tools/comby#install-pre-built-binaries)
